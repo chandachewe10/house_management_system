@@ -2,7 +2,7 @@
  House Mangement System.
 
 ## Brief description of website.
-<p>This is an open source project and all github software developers are free to contribute to make it a success as this is only the begnning</p>
+<p>This is an open source project and all github software developers are free to contribute to make it a success as this is only the beginning</p>
 <p>House Management System creates a suitable platform where tenants and landlords are able to interact
                based on a common purpose.</p>
            <p>Landlords are able to upload their properties whereas tenants can create profiles and view available
